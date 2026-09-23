@@ -1,0 +1,6 @@
+{
+  "name": "Neelam Food Plaza - Pure Veg Restaurant Jaipur Railway Station",
+  "description": "Authentic pure vegetarian restaurant at Platform 1, IRCTC Food Plaza, Jaipur Railway Station. Fresh North Indian curries, thalis, snacks, and train seat delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

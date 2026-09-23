@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-display {
+    font-family: 'Cinzel', serif;
+  }
+  .font-heading {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+  .font-sans {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom scrollbar for menu horizontal category scroll */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
